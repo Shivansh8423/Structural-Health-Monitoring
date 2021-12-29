@@ -1,1 +1,5 @@
 # Structural-Health-Monitoring
+<br>
+Composite materials are extensively used in the aerospace industry and are crucial for safe operations. The delamination is caused by cyclic loads and corrosive work settings and poses a severe threat to the structural health of composite layers. The data has been collected through the acoustic emission technique to assess the structural health by characterizing damage location, type, and size. This project proposes a predictive method using Machine learning to measure the delamination area efficiently. To manage the problem of insufficient assessment data, the prediction model chooses the path length across the delamination area as the target value.
+<br>
+The delamination area can then be assessed with the predicted path length based on inspected situations and structural image data. This method will extend the model training data sets and thus avoid the overfitting problem during the training process. Test results on composite samples demonstrate that the proposed ensemble learning-based model outperforms other parallel methods in prediction accuracy and efficiency. 
